@@ -1,4 +1,4 @@
-### <h1>Hi there</h1> 👋<h2> I'm Gagan or Geg</h2>
+### <h1>Hi there! 👋</h1><h2> I'm Gagan or Geg</h2>
 
 <h3> 👨🏻•💻 About Me </h3>
 
