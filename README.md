@@ -44,7 +44,6 @@
 <br>
 
 
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/gagan-n-bangaragiri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gagan%20N%20Bangaragiri-blue?style=flat-square&logo=linkedin"></a>
