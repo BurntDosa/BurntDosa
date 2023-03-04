@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Gagan or Geg</h2>
+### <h1>Hi there</h1> 👋<h2> I'm Gagan or Geg</h2>
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -49,9 +49,9 @@
 
 <a href="https://www.linkedin.com/in/gagan-n-bangaragiri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gagan%20N%20Bangaragiri-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/gagan.finity/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/gagan.finity/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gagan.finity-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:gaganbangaragiri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gaganbangaragiri@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:gagan.bangaragiri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gagan.bangaragiri@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
