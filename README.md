@@ -2,7 +2,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-
+<br>
 
 - 🤔 &nbsp; Learning coding languages, jamming to any kind of music (test me you'll be surprised), figuring out photoshop.
 
@@ -42,7 +42,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
 
 <p align="center">
 
