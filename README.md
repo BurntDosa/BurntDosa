@@ -2,8 +2,6 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-<br>
-
 - 🤔 &nbsp; Learning coding languages, jamming to any kind of music (test me you'll be surprised), figuring out photoshop.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at VIT-Vellore.
@@ -15,7 +13,6 @@
 
 
 <h3>🛠 Tech Stack</h3>
-
 
 
 - 💻 &nbsp; Python | Java | (Semi-proficient in Python and Java)
@@ -40,8 +37,6 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-<br>
 
 <p align="center">
 
