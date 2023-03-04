@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; Python | Java | (Semi-proficient in Python and Java)
 
-- 🌐 &nbsp; HTML | CSS 
+- 🌐 &nbsp; HTML | CSS (Working on Certification)
 
 <!--
 
