@@ -1,4 +1,4 @@
-<a href="https://gaganb.page/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/desk-dark.png"><img src="assets/desk-light.png" alt="My desk, drawn: the lamp, an old CRT, a boulder on a slope, a launch pad and a balance scale." width="100%"></picture></a>
+<a href="https://gaganb.page/"><picture><source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/desk-dark.png"><source media="(prefers-reduced-motion: reduce)" srcset="assets/desk-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/desk-dark.webp"><img src="assets/desk-light.webp" alt="My desk, drawn: the lamp, an old CRT, a boulder on a slope, a launch pad and a balance scale." width="100%"></picture></a>
 
 I'm Gagan, or Geg, an AI engineer in Bangalore. I turn questions into things people can actually use, and keep them on [my desk](https://gaganb.page/).
 
